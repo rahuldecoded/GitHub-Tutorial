@@ -6,3 +6,9 @@ This repo is used to teach how to use git and github for the beginners.
 
 #### [GitHub](https://github.com/):
 > "GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features."
+
+#### List of Important Commands:
+> diff
+> commit
+> clone
+> log
